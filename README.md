@@ -51,3 +51,7 @@ Applied threshold-based triggers for automated responses
 Incident Management Awareness:
 Learned proactive measures to detect and address resource bottlenecks
 Gained insights into cloud infrastructure reliability
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/14ed4696-81ed-4568-badf-fb24c0ebed3c)
